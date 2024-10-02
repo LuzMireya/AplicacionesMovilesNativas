@@ -6,7 +6,7 @@ Profesor: Gabriel Hurtado Avilés
 Grupo: 7CV3
 
 Alumnos: 
-José Antonio Amézquita López - 2021630115
-Luz Mireya García García - 2021630306
-Luis Josue de Jesus Chavez - 2021630798
+José Antonio Amézquita López - 2021630115\n
+Luz Mireya García García - 2021630306\n
+Luis Josue de Jesus Chavez - 2021630798\n
 Samuel Barush Oviedo Rubalcava - 2021630522
