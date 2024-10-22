@@ -1,10 +1,10 @@
-package com.samuelbarush.cerradura;
+package com.ramitas.cerraduras_api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CerraduraApplicationTests {
+class CerradurasApiApplicationTests {
 
 	@Test
 	void contextLoads() {
