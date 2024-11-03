@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ramitas.practica3app-mergeDebugResources-43:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ljjc2\\.gradle\\caches\\transforms-4\\1cd48158d2fe508dd3e071eb70127a78\\transformed\\appcompat-1.7.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
