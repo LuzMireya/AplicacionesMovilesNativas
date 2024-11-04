@@ -1,0 +1,7 @@
+com\example\practica3\model\Role.class
+com\example\practica3\service\UserService.class
+com\example\practica3\security\SecurityConfig.class
+com\example\practica3\model\User.class
+com\example\practica3\Practica3Application.class
+com\example\practica3\controller\UserController.class
+com\example\practica3\repository\UserRepository.class
